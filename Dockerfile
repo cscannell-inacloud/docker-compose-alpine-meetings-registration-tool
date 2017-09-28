@@ -1,5 +1,5 @@
 FROM alpine
-MAINTAINER "Eau de Web" <cornel.nitu@eaudeweb.ro>
+MAINTAINER "Andra Necula" 
 
 ENV MRT_SRC=/var/local/meetings
 
